@@ -1,5 +1,5 @@
 
-<img width="5000" src="https://github.com/js-react-collection/.github/blob/main/resources/jsrc.banner.jpg" />
+<img width="5000" src="https://github.com/js-react-collection/.github/blob/main/resources/jsrc-banner.jpg" />
 
 ---
 
