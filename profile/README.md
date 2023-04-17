@@ -16,4 +16,4 @@ Everything you see is legacy, unofficial material built for business purposes
 
 ---
 
-<span>Credits: </span>  Alberto Marà aka <b><a href="https://github.com/bertz-tech">github @bertz-tech</a> / <a href="https://bertz.tech">https://bertz.tech</a></b>
+<span>Credits: </span>  Alberto Mararangelo <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
